@@ -9,7 +9,7 @@ echo "<h2> Mi primer cambio</h2>";
 
 echo "<p> Github es la tecnologia online para trabajar con proyectos en git, 
 en simples palabras es utilizar git de forma remota pero entiendase 
-que son cosas totamente distintas </p>";
+que son cosas totamente diferentes </p>";
 
 
 ?>
