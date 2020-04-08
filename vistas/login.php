@@ -19,6 +19,14 @@
 	<link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
 <body>
+
+<form action="" method="POST">
+        <?php
+            if(isset($errorLogin)){
+                echo $errorLogin;
+            }
+        ?>
+
 <div class="container">
 	<div class="d-flex justify-content-center h-100">
 		<div class="card">

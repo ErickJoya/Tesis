@@ -1,8 +1,11 @@
 <?PHP
 
+
+
+
 $link = 'mysql:localhost;dbname=tesis_db';
 $user= 'root';
-$pass='root';
+$pass='';
 
 try{
 
